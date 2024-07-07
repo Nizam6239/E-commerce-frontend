@@ -1,3 +1,6 @@
+# Install the npm init
+This is the full responsive frontend website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
